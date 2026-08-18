@@ -1,7 +1,6 @@
 ![](https://github.com/attarwahyup/README.md/blob/main/gif.gif)
 
 ## SYSTEM PROFILE
-
     Identity: Attar W.P.
 
     Role: Security Engineer & DevSecOps Practitioner
@@ -12,17 +11,15 @@
 
 ### SYSTEM DEMO & VISUALIZATION
 #### CORE TOOLING & STACK
-
     Languages     : [ Python, PowerShell, Bash, Rust (Memory Safety Concepts) ]
     Infrastructure: [ Proxmox VE, Docker Enterprise, Linux Hardening ]
     Security      : [ AD Audit Automation, BloodHound, Impacket, Wazuh ]
     Perimeter     : [ Cloudflare Tunnels (ZTNA), WAF Hardening, Nginx ]
 
 ### RECENT ENGINEERING LOGS & REPOSITORIES
-
     Pusat dokumentasi skrip otomatisasi dan riset keamanan infrastruktur mandiri.
 
-    AD-Security-Audit-Suite
+    ![](https://github.com/attarwahyup/AD-Audit)
 
         Desc: Skrip automasi PowerShell tingkat lanjut (Ultimate SOC Edition) untuk audit delegasi AD, integritas SYSVOL GPO, dan mitigasi lateral movement.
 
@@ -35,11 +32,10 @@
         Desc: Rangkaian skrip pemetaan permukaan serang (Attack Surface) yang dibungkus dalam kontainer Docker terisolasi.
 
 ## SECURE COMMS
-
     GitHub: github.com/attarwahyup
 
     LinkedIn: https://www.linkedin.com/in/attar-wahyu-43130529b/
 
-    Keybase / PGP: Available upon request.
+    Mail: attarwp@proton.me
 
 
