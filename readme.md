@@ -11,7 +11,7 @@
     Enclave: cijasmin.id (Isolated Enterprise Lab Environment)
 
 ### SYSTEM DEMO & VISUALIZATION
-// CORE TOOLING & STACK
+#### CORE TOOLING & STACK
 YAML
 
 Languages     : [ Python, PowerShell, Bash, Rust (Memory Safety Concepts) ]
@@ -19,7 +19,7 @@ Infrastructure: [ Proxmox VE, Docker Enterprise, Linux Hardening ]
 Security      : [ AD Audit Automation, BloodHound, Impacket, Wazuh ]
 Perimeter     : [ Cloudflare Tunnels (ZTNA), WAF Hardening, Nginx ]
 
-// RECENT ENGINEERING LOGS & REPOSITORIES
+### RECENT ENGINEERING LOGS & REPOSITORIES
 
     Pusat dokumentasi skrip otomatisasi dan riset keamanan infrastruktur mandiri.
 
