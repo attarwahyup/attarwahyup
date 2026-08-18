@@ -12,12 +12,11 @@
 
 ### SYSTEM DEMO & VISUALIZATION
 #### CORE TOOLING & STACK
-YAML
 
-Languages     : [ Python, PowerShell, Bash, Rust (Memory Safety Concepts) ]
-Infrastructure: [ Proxmox VE, Docker Enterprise, Linux Hardening ]
-Security      : [ AD Audit Automation, BloodHound, Impacket, Wazuh ]
-Perimeter     : [ Cloudflare Tunnels (ZTNA), WAF Hardening, Nginx ]
+    Languages     : [ Python, PowerShell, Bash, Rust (Memory Safety Concepts) ]
+    Infrastructure: [ Proxmox VE, Docker Enterprise, Linux Hardening ]
+    Security      : [ AD Audit Automation, BloodHound, Impacket, Wazuh ]
+    Perimeter     : [ Cloudflare Tunnels (ZTNA), WAF Hardening, Nginx ]
 
 ### RECENT ENGINEERING LOGS & REPOSITORIES
 
